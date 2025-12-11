@@ -1,0 +1,35 @@
+name: detection_disease_leaf_melon_fruits
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0-100.2.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  go_router: ^15.1.2
+  http: ^1.4.0
+  image_picker: ^1.1.2
+  intl: ^0.20.2
+  stylish_bottom_bar: ^1.1.1
+  cupertino_rounded_corners: ^2.1.1
+  image_cropper: ^9.1.0
+  expandable_overlay: ^0.0.3
+  flutter_native_splash: ^2.4.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
