@@ -13,13 +13,13 @@ Aplikasi ini berfungsi sebagai klasifikasi penyakit pada daun tanaman melon. Pen
 ### Tampilan Aplikasi
 
 #### Homme Screen
-![Home Screen](<img width="1080" height="2340" alt="screen1_home" src="https://github.com/user-attachments/assets/39b25016-7d7b-414f-be74-2cbba29f36b4" />)
+![Home Screen](assets/images/screen1_home.png)
 
 #### Home Screen (Show Delete & Detection Button)
-![Delete & Detection Button](<img width="1080" height="2340" alt="screen1_delete" src="https://github.com/user-attachments/assets/cc05d359-1207-4945-ba73-5550347d85ec" />)
+![Delete & Detection Button](assets/images/screen1_delete.png)
 
 #### Result Detection Screen
-![Result Detection Screen](<img width="1080" height="2340" alt="screen2_result_disease" src="https://github.com/user-attachments/assets/1422ad20-07cb-410a-b4be-bd81a64dafa6" />)
+![Result Detection Screen](assets/images/screen2_result_disease.png)
 
 #### Result Extraction Features Section
-![Result Extraction Features Section](<img width="1080" height="2340" alt="screen2_result_extraction_features" src="https://github.com/user-attachments/assets/99ab8b67-1134-42e5-aafb-21d2c412abf5" />)
+![Result Extraction Features Section](assets/images/screen2_result_extraction_features.jpg)
